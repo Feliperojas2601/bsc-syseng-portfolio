@@ -1,0 +1,170 @@
+Band Model
+
+Band Distance        30 
+
+Number of boxes required      1000 
+
+Velocity of band       0.010 m/s
+
+Incremental       0.020 m/s 
+
+Max velocity       0.300 m/s 
+
+Box distance       2.400 m
+
+Service distance       1.050 m
+
+Mean service      15.000 secs
+
+Standar Desviation service       3.000 secs
+
+Number of hours processed:     65.394 
+Band Velocity:      0.010 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   997 
+Number of boxes lost :     3 
+Number of boxes completed per hour:     15.246 
+Number of boxes lost per hour:      0.046 
+Diference of boxes completed and lost per hour:     15.200 
+ 
+ 
+Number of hours processed:     22.455 
+Band Velocity:      0.030 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   984 
+Number of boxes lost :    16 
+Number of boxes completed per hour:     43.821 
+Number of boxes lost per hour:      0.713 
+Diference of boxes completed and lost per hour:     43.108 
+ 
+ 
+Number of hours processed:     12.945 
+Band Velocity:      0.050 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   951 
+Number of boxes lost :    49 
+Number of boxes completed per hour:     73.465 
+Number of boxes lost per hour:      3.785 
+Diference of boxes completed and lost per hour:     69.679 
+ 
+ 
+Number of hours processed:      9.846 
+Band Velocity:      0.070 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   925 
+Number of boxes lost :    75 
+Number of boxes completed per hour:     93.942 
+Number of boxes lost per hour:      7.617 
+Diference of boxes completed and lost per hour:     86.325 
+ 
+ 
+Number of hours processed:      7.014 
+Band Velocity:      0.090 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   876 
+Number of boxes lost :   124 
+Number of boxes completed per hour:    124.890 
+Number of boxes lost per hour:     17.678 
+Diference of boxes completed and lost per hour:    107.211 
+ 
+ 
+Number of hours processed:      6.044 
+Band Velocity:      0.110 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   832 
+Number of boxes lost :   168 
+Number of boxes completed per hour:    137.653 
+Number of boxes lost per hour:     27.795 
+Diference of boxes completed and lost per hour:    109.858 
+ 
+ 
+Number of hours processed:      4.918 
+Band Velocity:      0.130 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   784 
+Number of boxes lost :   216 
+Number of boxes completed per hour:    159.400 
+Number of boxes lost per hour:     43.916 
+Diference of boxes completed and lost per hour:    115.484 
+ 
+ 
+Number of hours processed:      4.692 
+Band Velocity:      0.150 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   777 
+Number of boxes lost :   223 
+Number of boxes completed per hour:    165.598 
+Number of boxes lost per hour:     47.527 
+Diference of boxes completed and lost per hour:    118.071 
+ 
+ 
+Number of hours processed:      4.028 
+Band Velocity:      0.170 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   684 
+Number of boxes lost :   316 
+Number of boxes completed per hour:    169.810 
+Number of boxes lost per hour:     78.450 
+Diference of boxes completed and lost per hour:     91.360 
+ 
+ 
+Number of hours processed:      3.421 
+Band Velocity:      0.190 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   656 
+Number of boxes lost :   344 
+Number of boxes completed per hour:    191.757 
+Number of boxes lost per hour:    100.555 
+Diference of boxes completed and lost per hour:     91.201 
+ 
+ 
+Number of hours processed:      3.199 
+Band Velocity:      0.210 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   620 
+Number of boxes lost :   380 
+Number of boxes completed per hour:    193.828 
+Number of boxes lost per hour:    118.798 
+Diference of boxes completed and lost per hour:     75.030 
+ 
+ 
+Number of hours processed:      2.828 
+Band Velocity:      0.230 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   571 
+Number of boxes lost :   429 
+Number of boxes completed per hour:    201.923 
+Number of boxes lost per hour:    151.708 
+Diference of boxes completed and lost per hour:     50.216 
+ 
+ 
+Number of hours processed:      2.615 
+Band Velocity:      0.250 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   552 
+Number of boxes lost :   448 
+Number of boxes completed per hour:    211.085 
+Number of boxes lost per hour:    171.315 
+Diference of boxes completed and lost per hour:     39.770 
+ 
+ 
+Number of hours processed:      2.592 
+Band Velocity:      0.270 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   541 
+Number of boxes lost :   459 
+Number of boxes completed per hour:    208.702 
+Number of boxes lost per hour:    177.069 
+Diference of boxes completed and lost per hour:     31.633 
+ 
+ 
+Number of hours processed:      2.373 
+Band Velocity:      0.290 m/s 
+Number of boxes:  1000 
+Number of boxes completed:   506 
+Number of boxes lost :   494 
+Number of boxes completed per hour:    213.242 
+Number of boxes lost per hour:    208.185 
+Diference of boxes completed and lost per hour:      5.057 
+ 
+ 

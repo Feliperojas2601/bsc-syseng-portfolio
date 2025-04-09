@@ -1,0 +1,21 @@
+SubAlgoritmo j<-a(m)
+   Escribir m;
+   Definir t Como Caracter;
+   Definir j Como entero;
+   j <- 8;
+   t<-"sub";
+FinSubAlgoritmo
+
+SubAlgoritmo x<-b()
+   Definir x Como numero;
+   x <- 6;
+FinSubAlgoritmo
+
+Proceso sin_titulo
+   Definir n,t Como numero;
+   t<-4;
+   n<-5*t;
+   Definir x Como caracter;
+   Escribir a(t*a(t*n+7));
+   Escribir x;
+FinProceso

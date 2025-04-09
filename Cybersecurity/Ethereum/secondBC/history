@@ -1,0 +1,14 @@
+eth.accounts
+eth.getBalance('0x045007163742007bce6dc7d77aa2c7a0d119a8f4')
+eth.accounts
+eth.getBalance('0x045007163742007bce6dc7d77aa2c7a0d119a8f4')
+clear
+eth.getBalance(eth.accounts[0])
+eth.accounts
+txpool.Content()
+txpool.content
+txpool.status
+eth.syncing
+admin.peers
+exitg
+admin.peers

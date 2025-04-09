@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1616191251 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\simlibcpu\lcgrand.c
+
+1617425298 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\simlibcpu\simlib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+
+1617424081 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\simlibcpu\simlibdefs.h
+
+1617490200 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\simlibcpu\main.c
+	"simlib.h"
+
+1617424001 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\simlibcpu\simlib.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+

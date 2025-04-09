@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1616191251 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2\lcgrand.c
+
+1617425298 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2\simlib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+
+1617424081 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2\simlibdefs.h
+
+1618272764 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2\main.c
+	"simlib.h"
+
+1617424001 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2\simlib.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+
+1616191251 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2b\lcgrand.c
+
+1617425298 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2b\simlib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+
+1617424081 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2b\simlibdefs.h
+
+1618273501 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2b\main.c
+	"simlib.h"
+
+1617424001 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\punto1.2tarea2b\simlib.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"simlibdefs.h"
+

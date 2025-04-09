@@ -1,0 +1,55 @@
+@import "../../../../scss/variables";
+@import "./mixins";
+
+.contenedor-seccion-inscripcion {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   #{&}-tutorial {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      &-titulo {
+         text-align: center;
+         margin: 1.25rem auto;
+         color: $color-dos;
+         font-size: 1.75rem;
+      }
+
+      &-texto {
+         max-height: 50rem;
+         overflow: auto;
+         margin: 1rem auto;
+         margin-top: 0;
+         padding: 0.75rem 1rem;
+         background-color: $color-uno;
+         box-shadow: 2px 2px 10px darken($color-uno, 15%),
+            -2px -2px 10px darken($color-uno, 15%);
+         border-radius: 1%;
+         font-size: 1.15rem;
+         text-align: left;
+
+         @include pantalla-celular {
+            font-size: 14px;
+            margin: 1rem;
+         }
+         @include pantalla-tablet {
+            font-size: 12px;
+         }
+      }
+   }
+   #{&}-boton-agregar {
+      margin: 0.25rem auto;
+      @include boton-general($color-dos);
+      color: white;
+      font-size: 1rem;
+      @include pantalla-celular {
+         font-size: 12px;
+      }
+      @include pantalla-tablet {
+         font-size: 14px;
+      }
+   }
+}

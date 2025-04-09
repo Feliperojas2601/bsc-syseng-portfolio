@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1616191786 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\ejemplomm1\main.c
+	<stdio.h>
+	<math.h>
+	"lgrandc.h"
+
+1616191251 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\ejemplomm1\lcgrand.c
+
+1616191424 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\ejemplomm1\lgrandc.h
+

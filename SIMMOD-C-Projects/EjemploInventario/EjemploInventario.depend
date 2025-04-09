@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1616191251 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\ejemploinventario\lcgrand.c
+
+1617422471 source:c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\ejemploinventario\main.c
+	<stdio.h>
+	<math.h>
+	"lgrandc.h"
+
+1616191424 c:\users\personal\desktop\sexto semestre\modelos\codeblocksproyects\ejemploinventario\lgrandc.h
+

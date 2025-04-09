@@ -1,0 +1,15 @@
+<div>
+  <h2>Interactuar con el contrato de subasta</h2>
+  <label>Cantidad de la oferta (en Ether):</label>
+  <input type="number" [(ngModel)]="amount" placeholder="Cantidad de la oferta">
+  <label>Candidato:</label>
+  <input type="text" [(ngModel)]="candidate" placeholder="Nombre del candidato">
+  <button (click)="placeBid()">Realizar oferta</button>
+  <button (click)="getCurrentWinner()">Obtener ganador actual</button>
+  <button (click)="getCurrentWinnerAmount()">Obtener cantidad del ganador actual</button>
+  <button (click)="withdrawBid()">Retirar oferta</button>
+  <div *ngIf="result">
+    <h3>Resultado:</h3>
+    <p>{{ result }}</p>
+  </div>
+</div>
